@@ -52,3 +52,4 @@ If you are hosting frontend code somewhere without using DFX, you may need to ma
 # motoko_hello
 # hello
 # hello
+# hello
